@@ -1,0 +1,13 @@
+
+                 ?              ,.   (   .      )        .      "
+         __        ??          ("     )  )'     ,'        )  . (`     '`
+    (___()'`;   ???          .; )  ' (( (" )    ;(,     ((  (  ;)  "  )")
+    /,___ /`                 _"., ,._'_.,)_(..,( . )_  _' )_') (. _..( ' )
+    \\   \\                 |____|____|____|____|____|____|____|____|____|
+
+                                ~ WAFW00F : v2.3.2 ~
+                    ~ Sniffing Web Application Firewalls since 2014 ~
+
+[*] Checking https://networkwalks.com
+[+] The site https://networkwalks.com is behind ModSecurity (SpiderLabs) WAF.
+[~] Number of requests: 2
